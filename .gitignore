@@ -1,5 +1,6 @@
 .DS_Store
 /.src/*
+/.idea/*
 /themes/twentytwentyfive
 /themes/twentytwentyfour
 /themes/twentytwentythree
